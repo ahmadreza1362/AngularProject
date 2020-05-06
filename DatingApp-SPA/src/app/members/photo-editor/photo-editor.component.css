@@ -1,0 +1,25 @@
+.img-thumbnail {
+    /* margin : 100px; */
+    /* min-width: 100% !important; */
+    margin-bottom: 5px;
+}
+.nv-file-over {
+    border : dotted 3px red;
+}
+input[type=file] {
+
+    color: transparent;
+}
+.not-Approved {
+    opacity: 0.2;
+}
+.img-wrapper {
+    position: relative;
+}
+.img-text {
+    position: absolute;
+    bottom:40%;
+    margin-right:10% ;
+  
+}
+
